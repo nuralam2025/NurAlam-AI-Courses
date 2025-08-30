@@ -7,8 +7,8 @@ It currently includes two full courses:
 2. **AI Product Management Course** – A practical course on building, scaling, and managing AI-powered products.
 
 ---
-
 ## 📂 Repository Structure
+
 NurAlam-AI-Courses/
 │
 ├── Agentic-AI-Course/ # 12-part Agentic AI curriculum
