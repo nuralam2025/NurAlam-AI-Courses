@@ -11,15 +11,15 @@ It currently includes two full courses:
 ## 📂 Repository Structure
 NurAlam-AI-Courses/
 │
-├── Agentic-AI-Course/          # 12-part Agentic AI curriculum
-│   ├── README.md
-│   ├── syllabus.md
-│   └── modules/
+├── Agentic-AI-Course/ # 12-part Agentic AI curriculum
+│ ├── README.md
+│ ├── syllabus.md
+│ └── modules/
 │
-└── AI-Product-Management/      # AI product strategy and execution course
-    ├── README.md
-    ├── syllabus.md
-    └── modules/
+└── AI-Product-Management/ # AI product strategy and execution course
+├── README.md
+├── syllabus.md
+└── modules/
 
 ---
 
