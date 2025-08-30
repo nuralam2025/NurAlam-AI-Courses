@@ -22,6 +22,8 @@ NurAlam-AI-Courses/
 └── modules/
 
 ---
+## 📂 Repository Structure
+
 
 ## 🚀 How to Use
 - Browse each course folder for detailed lessons and exercises.
