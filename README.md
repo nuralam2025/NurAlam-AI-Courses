@@ -20,10 +20,7 @@ NurAlam-AI-Courses/
 ├── README.md
 ├── syllabus.md
 └── modules/
-
 ---
-## 📂 Repository Structure
-
 
 ## 🚀 How to Use
 - Browse each course folder for detailed lessons and exercises.
