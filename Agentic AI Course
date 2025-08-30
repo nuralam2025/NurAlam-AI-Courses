@@ -1,0 +1,33 @@
+Agentic-AI-Course/
+│
+├── README.md                <- course overview, audience, how to use
+├── syllabus.md               <- detailed syllabus (all 12 parts)
+├── modules/                  <- each part is a module
+│   ├── Part-01-What-Are-Agents.md
+│   ├── Part-02-Types-of-Agentic-Systems.md
+│   ├── Part-03-Tools-in-AI.md
+│   ├── Part-04-RAG-Agentic.md
+│   ├── Part-05-MCP.md
+│   ├── Part-06-Planning-and-Reasoning.md
+│   ├── Part-07-Memory-in-Agents.md
+│   ├── Part-08-Multi-Agent-Systems.md
+│   ├── Part-09-Real-World-Agentic-Systems.md
+│   ├── Part-10-Future-of-Agentic-AI.md
+│   ├── Part-11-Hands-on-Building-Agents.md        <- 🔥 added
+│   └── Part-12-Capstone-Project.md                <- 🔥 added
+│
+├── exercises/                <- coding notebooks and labs
+│   ├── lab01_basic_agent.ipynb
+│   ├── lab02_rag_agent.ipynb
+│   ├── lab03_multi_agent.ipynb
+│   └── ...
+│
+├── case-studies/             <- real-world examples
+│   ├── enterprise_example.md
+│   ├── research_paper_summaries.md
+│   └── ...
+│
+└── resources/                <- diagrams, references, images
+    ├── agent_architecture.png
+    ├── rag_vs_agentic.png
+    └── further_reading.md
