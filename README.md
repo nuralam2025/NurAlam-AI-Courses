@@ -20,6 +20,7 @@ NurAlam-AI-Courses/
 ├── README.md
 ├── syllabus.md
 └── modules/
+
 ---
 
 ## 🚀 How to Use
