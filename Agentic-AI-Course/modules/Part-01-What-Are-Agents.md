@@ -1,4 +1,4 @@
-# Part 1: What Are Agents Anyway?
+# Part 1: What Are Agents?
 
 Before we start building, let’s clarify what we actually mean by *agents*.  
 The term is used everywhere right now — from startups raising millions to enterprises rethinking automation — but the definition is often fuzzy.
